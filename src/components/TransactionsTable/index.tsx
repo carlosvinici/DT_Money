@@ -12,10 +12,10 @@ export function TransactionsTable(){
             <table>
                 <thead>
                     <tr>
-                        <th>Titulo</th>
-                        <th>Valor</th>
-                        <th>Categoria</th>
-                        <th>Data</th>
+                        <td>Titulo</td>
+                        <td>Valor</td>
+                        <td>Categoria</td>
+                        <td>Data</td>
                     </tr>
                 </thead>
 
